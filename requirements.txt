@@ -1,0 +1,4 @@
+numpy
+scipy.linalg
+scipy.optimize
+matplotlib
